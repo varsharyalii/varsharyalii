@@ -39,7 +39,7 @@ Three of my tools are live on **npm** and **PyPI**. I've built an AI nail art ge
 </td>
 <td width="50%">
 
-### Side Projects (vibecoded)
+### Side Projects (vibecoded with Cursor)
 💅 **JellyTip** 
 <br>AI nail art generator 
 <br>*Don't question it, just appreciate it*
