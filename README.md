@@ -13,7 +13,7 @@
 
 I'm the person who builds things that make people go "wait, why does this exist?" and then they actually use it. 
 
-Three of my tools are live on **npm** and **PyPI**. I've built an AI nail art generator alongside production ML systems. I contain multitudes.
+Three of my tools are live on **npm** and **PyPI**. I've built an AI nail art generator alongside production LLM systems. I contain multitudes.
 
 ---
 
@@ -63,7 +63,7 @@ Three of my tools are live on **npm** and **PyPI**. I've built an AI nail art ge
 ```
 ✨ Breaking into agentic AI (the robots are getting smarter and I'm here for it)
 🏗️ Obsessed with 0→1 building - idea to shipped product is my favorite journey  
-☁️ Deep in the cloud/K8s/infra world (if it scales, I care about it)
+☁️ Expertise in the cloud/K8s/infra world (if it scales, I care about it)
 💼 Freelancing because why have one job when you can have three projects
 🎯 Always learning - currently in my "learn everything possible" era
 ```
@@ -73,16 +73,16 @@ Three of my tools are live on **npm** and **PyPI**. I've built an AI nail art ge
 ## 🛠️ My Toolkit
 
 **AI/ML & LLMOps**  
-Python · PyTorch · TensorFlow · LangChain · OpenAI API · Hugging Face · Vector DBs · Prompt Engineering · RAG Systems
+Python · PyTorch · LangChain · OpenAI API · Hugging Face · Prompt Engineering · RAG Systems · Agent Framework
 
 **Cloud & Infrastructure**  
-Kubernetes · Docker · AWS (EC2, S3, Lambda, ECS) · Terraform · CI/CD · Monitoring & Observability
+Kubernetes · Docker · AWS (EC2, S3, Lambda) · Terraform · CI/CD · Monitoring & Observability
 
 **Backend & APIs**  
 FastAPI · Node.js · REST APIs · GraphQL · PostgreSQL · Redis · Message Queues
 
 **MLOps & Production**  
-Model Deployment · A/B Testing · Model Monitoring · Experiment Tracking · Production ML Pipelines
+Model Deployment · A/B Testing · Model Monitoring · LLM Token Utilization 
 
 **Vibe:** Production-grade systems with startup speed
 
@@ -106,17 +106,14 @@ I'm always down to collaborate on interesting **0→1 projects** or anything in 
 
 If you've got a wild idea that needs building, want to chat about infrastructure, LLMOps, or need someone to explain why AI nail art is actually genius — hit me up!
 
-**Reach me:** [your-email@example.com]
+**Reach me:** [varsharyali@gmail.com]
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=buefy&hide_border=true)
-
-*Entrepreneurial by nature. If it can be built, scaled, or shipped — I'm probably already thinking about it.*
+*Entrepreneurial by nature. Let's connect if you're driven enough to build something (I have some ideas I'm working on)*
 
 </div>
-
 
 
